@@ -1,0 +1,41 @@
+dataset:
+    data_path: 'Datasets/arxiv/train.npy'
+    image_size: 256
+    target_width: 256
+    target_height: 256
+    corrupt_method: 'skip'
+    corrupt_scale: 4
+    sparsity: 0.05
+diffusion:
+    kappa:  4
+    kwargs: 0.3
+    num_diffusion_steps: 15
+    steps: 15
+model:
+    # Original UNet parameters
+    type: "conditional"
+    in_channels: 3
+    out_ch: 3
+    ch: 64
+    ch_mult: [1, 1, 1, 2]
+    num_res_blocks: 1
+    attn_resolutions: [16,]
+    dropout: 0.0
+    var_type: fixedlarge
+    ema_rate: 0.9999
+    ema: True
+    resamp_with_conv: True
+    # FNO specific parameters
+    modes1: 12         # Number of Fourier modes in first dimension
+    modes2: 12         # Number of Fourier modes in second dimension
+    width: 32          # Hidden layer width for FNO
+    in_channels_fno: 3 # Input channels for FNO
+    out_channels_fno: 3 # Output channels for FNO
+Training:
+    epoch: 20
+    lr: 0.001
+    save_interval: 10
+    batch_size: 8
+    log_file_path: 'Logging_info/fno.txt'
+    check_point_path: 'fno_km'
+    Modeltype: fno

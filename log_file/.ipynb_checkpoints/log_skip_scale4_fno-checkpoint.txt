@@ -1,0 +1,10 @@
+Starting training with configuration: skip_scale4
+Epoch: 0, Avg MSE Training Loss: 0.10193878299323841
+Epoch: 0, Avg MSE Validation Loss: 0.8094598218798638, Avg RMSE Validation Loss: 0.8815488286316395, Avg MRE Validation Loss: 0.18845106484368443
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 1, Avg MSE Training Loss: 0.03170786449918524
+Epoch: 1, Avg MSE Validation Loss: 0.7375615108758211, Avg RMSE Validation Loss: 0.8411945272237062, Avg MRE Validation Loss: 0.1798720951192081
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 2, Avg MSE Training Loss: 0.023758621816523374
+Epoch: 2, Avg MSE Validation Loss: 0.619187762029469, Avg RMSE Validation Loss: 0.770453654974699, Avg MRE Validation Loss: 0.16473710685968398
+Checkpoint saved to output_model/km/fno_skip_scale4.pth

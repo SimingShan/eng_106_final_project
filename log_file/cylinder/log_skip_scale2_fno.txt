@@ -1,0 +1,42 @@
+Starting training with configuration: skip_scale2
+Epoch: 0, Avg MSE Training Loss: 0.03151192337383691
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 1, Avg MSE Training Loss: 0.0001347614986152621
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 2, Avg MSE Training Loss: 0.00010179323465854396
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 3, Avg MSE Training Loss: 0.00010996567613437946
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 4, Avg MSE Training Loss: 0.00012623516794155876
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 5, Avg MSE Training Loss: 1.0928013886768894e-05
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 6, Avg MSE Training Loss: 5.5095186782637026e-05
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 7, Avg MSE Training Loss: 4.201378474317607e-05
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 8, Avg MSE Training Loss: 1.5812235715202406e-05
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 9, Avg MSE Training Loss: 4.06953187457475e-05
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 10, Avg MSE Training Loss: 2.9494362397599617e-06
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 11, Avg MSE Training Loss: 1.552029467529792e-05
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 12, Avg MSE Training Loss: 4.077477145756348e-06
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 13, Avg MSE Training Loss: 2.0685988449713478e-06
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 14, Avg MSE Training Loss: 1.7320991807991958e-06
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 15, Avg MSE Training Loss: 1.5623362967289722e-06
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 16, Avg MSE Training Loss: 1.4590055209282582e-06
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 17, Avg MSE Training Loss: 1.3962900200112927e-06
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 18, Avg MSE Training Loss: 1.3557565891915145e-06
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 19, Avg MSE Training Loss: 1.3318228463958803e-06
+Checkpoint saved to output_model/cylinder/fno_skip_scale2.pth
+Epoch: 19, Avg Test MSE Validation Loss for fno at skip_scale2: 4.385351693209876e-07, Avg RMSE Test Validation Loss for fno at skip_scale2: 0.0006620469586258489, Avg Test MRE Validation Loss for fno at skip_scale2: 0.0011785113334005315

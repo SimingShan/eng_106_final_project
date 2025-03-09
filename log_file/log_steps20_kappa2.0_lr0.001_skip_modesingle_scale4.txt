@@ -1,0 +1,8 @@
+Epoch: 0, Avg MSE Training Loss: 0.07104721652722219
+Epoch: 0, Avg MSE Training Loss: 0.033100046595791355
+Epoch: 0, Avg MSE Training Loss: 0.04864762292127125
+Epoch: 0, Avg MSE Training Loss: 0.033168627676786855
+Epoch: 0, Avg MSE Training Loss: 0.046170198533218354
+Epoch: 0, Avg MSE Training Loss: 0.03060672717401758
+Epoch: 0, Avg MSE Training Loss: 0.0401219182938803
+Checkpoint saved to output_model/km/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale4.pth

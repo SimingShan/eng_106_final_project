@@ -1,0 +1,42 @@
+Starting training with configuration: skip_scale4
+Epoch: 0, Avg MSE Training Loss: 0.03287911144798272
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 1, Avg MSE Training Loss: 0.012005570907058427
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 2, Avg MSE Training Loss: 0.009091540028020973
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 3, Avg MSE Training Loss: 0.007657373995607486
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 4, Avg MSE Training Loss: 0.006776928180443065
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 5, Avg MSE Training Loss: 0.006132239808539453
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 6, Avg MSE Training Loss: 0.0056297617195014025
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 7, Avg MSE Training Loss: 0.005227964491132298
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 8, Avg MSE Training Loss: 0.004887675793725066
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 9, Avg MSE Training Loss: 0.004591168739898422
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 10, Avg MSE Training Loss: 0.00434955205910228
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 11, Avg MSE Training Loss: 0.004141437427642813
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 12, Avg MSE Training Loss: 0.003964095140872814
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 13, Avg MSE Training Loss: 0.003815203986960114
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 14, Avg MSE Training Loss: 0.003694750165050209
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 15, Avg MSE Training Loss: 0.003595357629092177
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 16, Avg MSE Training Loss: 0.0035189963749871823
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 17, Avg MSE Training Loss: 0.003462436997142504
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 18, Avg MSE Training Loss: 0.0034230139419378245
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 19, Avg MSE Training Loss: 0.0033990808884482248
+Checkpoint saved to output_model/km/fno_skip_scale4.pth
+Epoch: 19, Avg Test MSE Validation Loss for fno at skip_scale4: 0.20138173245359212, Avg RMSE Test Validation Loss for fno at skip_scale4: 0.4331598388031125, Avg Test MRE Validation Loss for fno at skip_scale4: 0.0916189145995304

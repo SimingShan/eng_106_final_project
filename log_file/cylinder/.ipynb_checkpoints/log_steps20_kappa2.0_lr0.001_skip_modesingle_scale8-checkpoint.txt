@@ -1,0 +1,41 @@
+Epoch: 0, Avg MSE Training Loss: 0.06351318193972111
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 1, Avg MSE Training Loss: 0.002079656640009489
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 2, Avg MSE Training Loss: 0.0004219399331777822
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 3, Avg MSE Training Loss: 0.00042681683517002965
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 4, Avg MSE Training Loss: 0.0005001261890138267
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 5, Avg MSE Training Loss: 0.00018538073878880822
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 6, Avg MSE Training Loss: 0.00018761656027345452
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 7, Avg MSE Training Loss: 6.96118733867479e-05
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 8, Avg MSE Training Loss: 0.00011529653134857654
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 9, Avg MSE Training Loss: 0.00011492976065346739
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 10, Avg MSE Training Loss: 0.00010212922219216125
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 11, Avg MSE Training Loss: 3.947298223283724e-05
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 12, Avg MSE Training Loss: 1.633549245161703e-05
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 13, Avg MSE Training Loss: 1.551038024626905e-05
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 14, Avg MSE Training Loss: 1.0914683759438049e-05
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 15, Avg MSE Training Loss: 8.926207830882048e-06
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 16, Avg MSE Training Loss: 7.195245417278784e-06
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 17, Avg MSE Training Loss: 5.548584774714982e-06
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 18, Avg MSE Training Loss: 4.9359648628524155e-06
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 19, Avg MSE Training Loss: 4.589349062825931e-06
+Checkpoint saved to output_model/cylinder/diffusion_steps20_kappa2.0_lr0.001_skip_modesingle_scale8.pth
+Epoch: 19, Avg MSE test Loss: 3.3145947998578083e-06, Avg RMSE test Loss: 0.0018202816709018653, Avg MRE test Loss: 0.0018186492250404423

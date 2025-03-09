@@ -1,0 +1,129 @@
+Starting training with configuration: skip_scale4
+Epoch: 0, Avg MSE Training Loss: 0.03816231891978532
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 1, Avg MSE Training Loss: 0.013529104512417688
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 2, Avg MSE Training Loss: 0.010755068366415798
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 3, Avg MSE Training Loss: 0.01054133175930474
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 4, Avg MSE Training Loss: 0.006772452067525592
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 5, Avg MSE Training Loss: 0.00430756087298505
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 6, Avg MSE Training Loss: 0.002725555162760429
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 7, Avg MSE Training Loss: 0.0019416337527218275
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 8, Avg MSE Training Loss: 0.0015289011873392156
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 9, Avg MSE Training Loss: 0.0012922914258524543
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 10, Avg MSE Training Loss: 0.0010674603108782321
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 11, Avg MSE Training Loss: 0.0009348291281639831
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 12, Avg MSE Training Loss: 0.0008408769161178497
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 13, Avg MSE Training Loss: 0.0007517026173445629
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 14, Avg MSE Training Loss: 0.0006862994916446042
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 15, Avg MSE Training Loss: 0.0006377079560479614
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 16, Avg MSE Training Loss: 0.0006039347299520159
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 17, Avg MSE Training Loss: 0.0005802629197205533
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 18, Avg MSE Training Loss: 0.000565330101744621
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 19, Avg MSE Training Loss: 0.0005566367619394442
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 19, Avg Test MSE Validation Loss for unet at skip_scale4: 0.035693879774771634, Avg RMSE Test Validation Loss for unet at skip_scale4: 0.1811112449504435, Avg Test MRE Validation Loss for unet at skip_scale4: 0.038669161417055876
+Starting training with configuration: skip_scale4
+Starting training with configuration: skip_scale4
+Starting training with configuration: skip_scale4
+Starting training with configuration: skip_scale4
+Epoch: 0, Avg MSE Training Loss: 0.020828131462621968
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 1, Avg MSE Training Loss: 0.0001926787794800475
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 2, Avg MSE Training Loss: 0.00014632223430817247
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 3, Avg MSE Training Loss: 6.780691233871039e-05
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 4, Avg MSE Training Loss: 5.602238416213368e-05
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 5, Avg MSE Training Loss: 8.489140934216266e-05
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 6, Avg MSE Training Loss: 4.150311220473668e-05
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 7, Avg MSE Training Loss: 4.3396054778895635e-05
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 8, Avg MSE Training Loss: 3.6467050601913794e-05
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 9, Avg MSE Training Loss: 3.306384383176919e-05
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 10, Avg MSE Training Loss: 1.728655137367241e-05
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 11, Avg MSE Training Loss: 1.1620526705883093e-05
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 12, Avg MSE Training Loss: 9.62939087776249e-06
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 13, Avg MSE Training Loss: 3.0338328710968197e-06
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 14, Avg MSE Training Loss: 1.4573695368653717e-06
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 15, Avg MSE Training Loss: 1.0669919187193955e-06
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 16, Avg MSE Training Loss: 8.926505029194232e-07
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 17, Avg MSE Training Loss: 7.513161277756808e-07
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 18, Avg MSE Training Loss: 7.019774360514929e-07
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 19, Avg MSE Training Loss: 6.73358627750531e-07
+Checkpoint saved to output_model/cylinder/unet_skip_scale4.pth
+Epoch: 19, Avg Test MSE Validation Loss for unet at skip_scale4: 2.188463054514455e-07, Avg RMSE Test Validation Loss for unet at skip_scale4: 0.0004677076344489164, Avg Test MRE Validation Loss for unet at skip_scale4: 0.000833106736305155
+Starting training with configuration: skip_scale4
+Epoch: 0, Avg MSE Training Loss: 0.01049190393423487
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 1, Avg MSE Training Loss: 0.0016329310598393932
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 2, Avg MSE Training Loss: 0.001090455513804045
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 3, Avg MSE Training Loss: 0.000837404322828661
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 4, Avg MSE Training Loss: 0.0006998943476901331
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 5, Avg MSE Training Loss: 0.0006115465173479606
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 6, Avg MSE Training Loss: 0.0004890308081712646
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 7, Avg MSE Training Loss: 0.00041416897084900484
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 8, Avg MSE Training Loss: 0.00035939981945602993
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 9, Avg MSE Training Loss: 0.000302919613341146
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 10, Avg MSE Training Loss: 0.0002604230187785106
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 11, Avg MSE Training Loss: 0.00021762610790005966
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 12, Avg MSE Training Loss: 0.00018287376144030532
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 13, Avg MSE Training Loss: 0.00015626949472107298
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 14, Avg MSE Training Loss: 0.0001348611557318691
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 15, Avg MSE Training Loss: 0.000118233094747211
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 16, Avg MSE Training Loss: 0.00010611364205317386
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 17, Avg MSE Training Loss: 9.756175681161495e-05
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 18, Avg MSE Training Loss: 9.197945471726144e-05
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 19, Avg MSE Training Loss: 8.875078773655787e-05
+Checkpoint saved to output_model/km/unet_skip_scale4.pth
+Epoch: 19, Avg Test MSE Validation Loss for unet at skip_scale4: 0.005679482834239025, Avg RMSE Test Validation Loss for unet at skip_scale4: 0.07160527964588255, Avg Test MRE Validation Loss for unet at skip_scale4: 0.015283445548266172

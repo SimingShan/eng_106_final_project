@@ -1,0 +1,39 @@
+dataset:
+  path: 'cylinder_flow.npy'
+  transform: 'std'
+  image_height: 112
+  image_width: 192 
+  image_size: 192 
+
+diffusion:
+  target: str
+  sf: 4
+  schedule_name: exponential
+  etas_end: 0.99
+  steps: 20
+  min_noise_level: 0.04
+  kappa: 2
+  weighted_mse: True
+  predict_type: x start
+  scale_factor: 1
+  normalize_input: True
+  latent_flag: True
+  kwargs: 0.3
+  num_diffusion_steps: 20
+
+model:
+  in_channels: 1
+  out_ch: 1
+  ch: 64
+  ch_mult: [1, 1, 1, 2]
+  num_res_blocks: 1
+  attn_resolutions: [16,]
+  dropout: 0.0
+  resamp_with_conv: True
+  
+train:
+  epoch: 20
+  lr: 0.001
+  save_interval: 20
+  batch_size: 8
+  model_type: 'diffusion'
