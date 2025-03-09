@@ -1,6 +1,7 @@
 # Probabilistic flow reconstruction with residual shifting model
 
 This repository contains code and analysis for flow reconstruction with residual shifting model.
+Please check out the report paper at `eng_106_report.pdf`.
 
 ## Dataset
 
